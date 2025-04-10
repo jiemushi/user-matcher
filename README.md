@@ -10,7 +10,7 @@ Checks for at least 2 parameters - matching type and input file
 
 Checks if the file exists and a CSV file
 
-Only accepts `email` and `phone` as matching type
+Only accepts `email` and/or `phone` as matching type
 
 ## Specs
 The output file will contain `user_id` which would be the unique group id
