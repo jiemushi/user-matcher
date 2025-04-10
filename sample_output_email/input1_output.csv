@@ -1,9 +1,0 @@
-user_id,FirstName,LastName,Phone,Email,Zip
-1,John,Smith,(555)123-4567,johns@home.com,94105
-2,Jane,Smith,(555) 123-4567,janes@home.com,94105-1245
-3,Jack,Smith,444.123.4567,jacks@home.com,94105
-4,Josh,Smith,(456) 789-0123,joshs@home.com,94109
-5,,,15556549873,,
-6,Jack,,14441234567,,
-2,,Smith,,janes@home.com,
-8,Josh,Smith,,,94109
